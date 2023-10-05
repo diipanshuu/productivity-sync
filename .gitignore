@@ -1,0 +1,7 @@
+/sqlite-jdbc-3.34.0.jar
+.idea/*
+out/
+/shelf/
+/workspace.xml
+*.iml
+myDB.db
